@@ -12,9 +12,14 @@ author:
   name: "Afonso Vale"
   email: "a.vale@sapo.pt"
 
-#permalink: /:categories/:year/:month/:day/:title/
-
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
 
 # Blog organization
 paginate: 8
