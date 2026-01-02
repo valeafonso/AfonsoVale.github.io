@@ -1,7 +1,7 @@
 title: "Afonso Vale"
 description: "Notes on everything and anything"
-url: "https://AfonsoVale.github.io" # or your custom domain
-baseurl: ""                         # keep "" for user/organization sites
+#url: "https://AfonsoVale.github.io" # or your custom domain
+#baseurl: ""                         # keep "" for user/organization sites
 
 # Optional: if this is a project site (repo pages), baseurl is "/REPO"
 # baseurl: "/REPO"
@@ -9,10 +9,10 @@ baseurl: ""                         # keep "" for user/organization sites
 timezone: Europe/Lisbon
 
 author:
-  name: "Your Name"
-  email: "you@example.com"
+  name: "Afonso Vale"
+  email: "a.vale@sapo.pt"
 
-permalink: /:categories/:year/:month/:day/:title/
+#permalink: /:categories/:year/:month/:day/:title/
 
 markdown: kramdown
 
